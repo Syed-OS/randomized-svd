@@ -13,7 +13,7 @@ rc('font', **{
     'sans-serif': 'Arial',
     'size' : 16
 })
-rc('text', usetex=True)
+rc('text', usetex=False)
 
 # ------------------------------------------------------------------------------
 
